@@ -3,7 +3,7 @@
 
 <p align="center">
 🔧 Passionate about building scalable backend systems and real-time applications.  
-🌍 Currently working as a <strong>Team Lead</strong> at Ideiosoft Pvt. Ltd.  
+🌍 Currently working as a <strong>Team Lead</strong>.
 📈 Open to collaboration on impactful open-source projects.
 </p>
 
