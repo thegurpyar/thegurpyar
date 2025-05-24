@@ -23,8 +23,7 @@
 - CI/CD pipelines with Jenkins & Docker
 
 ### 📫 Reach Me At
-- 📧 **gurpyar2828@gmail.com**
-- 🔗 [LinkedIn](https://linkedin.com/in/gurpyar)
+- 📧 **awsgurpyar@gmail.com**
 - 🌐 [Portfolio](https://gurpyarsingh.netlify.app)
 
 ---
